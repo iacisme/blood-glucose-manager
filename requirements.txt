@@ -27,6 +27,7 @@ shapely
 # Project Jupyter related libraries
 jupyterlab
 jupyterlab-spellchecker
+myst-parser
 
 # Dash and Dash Components. 
 dash
