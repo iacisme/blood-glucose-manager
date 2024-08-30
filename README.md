@@ -88,7 +88,7 @@ A chart to help track and manage finger pricking used to draw blood for test str
 A chart to help manage and track insulin injection sites.
 
 <img 
-     src="../../00_Data/01_Assets/insulinInjectionSites.png" 
+     src="00_Data/01_Assets/insulinInjectionSites.png" 
      alt="Insulin Injection Chart"
      style="width:800x;height:400px;"
      >
@@ -98,7 +98,7 @@ A chart to help manage and track insulin injection sites.
 A chart to track blood pressure, and interpret the results.
 
 <img 
-     src="../../00_Data/01_Assets/bloodPressureChart.png" 
+     src="00_Data/01_Assets/bloodPressureChart.png" 
      alt="Blood Pressure Chart"
      style="width:1000x;height:700px;"
      >
@@ -126,7 +126,7 @@ On June 20, 2024 I suffered a massive heart attack due to having uncontrolled bl
 The day of my heart attack, my blood glucose levels were 18.2 mmol/L (328 mg/dL), and my Hb-A1c level was 12.0%. The following chart puts these numbers into perspective:
 
 <img 
-     src="../../00_Data/01_Assets/bloodGlucoseChart.jpg" 
+     src="00_Data/01_Assets/bloodGlucoseChart.jpg" 
      alt="Blood Glucose Chart"
      style="width:1100x;height:600px;"
      > 
