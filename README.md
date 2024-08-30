@@ -78,7 +78,7 @@ Meals will be tracked by date (YYYY-MM-DD) and time according to the following d
 A chart to help track and manage finger pricking used to draw blood for test strips.
 
 <img 
-     src="../../00_Data/01_Assets/fingerPrickingChart.png" 
+     src="00_Data/01_Assets/fingerPrickingChart.png" 
      alt="Finger Pricking Chart"
      style="width:600x;height:300px;"
      >
