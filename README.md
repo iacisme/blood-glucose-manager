@@ -81,7 +81,7 @@ A chart to help track and manage finger pricking used to draw blood for test str
      src="00_Data/01_Assets/fingerPrickingChart.png" 
      alt="Finger Pricking Chart"
      style="width:600x;height:300px;"
-     >
+     />
 
 ## Track insulin injection locations
 
@@ -91,7 +91,7 @@ A chart to help manage and track insulin injection sites.
      src="00_Data/01_Assets/insulinInjectionSites.png" 
      alt="Insulin Injection Chart"
      style="width:800x;height:400px;"
-     >
+     />
 
 ## Track blood pressure
 
@@ -101,10 +101,11 @@ A chart to track blood pressure, and interpret the results.
      src="00_Data/01_Assets/bloodPressureChart.png" 
      alt="Blood Pressure Chart"
      style="width:1000x;height:700px;"
-     >
+     />
 
-## Blood glucose charts
+## Blood glucose charts and visualizations
 
+Provide easy to read charts and graphs that enable someone to understand their 
 
 
 # Background
@@ -129,7 +130,7 @@ The day of my heart attack, my blood glucose levels were 18.2 mmol/L (328 mg/dL)
      src="00_Data/01_Assets/bloodGlucoseChart.jpg" 
      alt="Blood Glucose Chart"
      style="width:1100x;height:600px;"
-     > 
+     /> 
 
 The most important lesson I learned while recovering in the Cardio ward of the Hospital was the impact of high blood glucose on heart health. This lesson was not only taught by the attending physicians and nurses, but through my own observations of the people in the Cardiac ward. Almost everyone in this ward had poor metabolic health.
 
