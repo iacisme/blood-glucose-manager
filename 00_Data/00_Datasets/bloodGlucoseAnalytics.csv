@@ -1,0 +1,402 @@
+DateTime,Date,TimeTest,TimeMeal,Glucose (mmol/L),Marker,Meal Type,Description
+2024-07-04 17:00:00,2024-07-04,17:00:00,,8.8,No Marker,,
+2024-07-04 22:09:00,2024-07-04,22:09:00,,10.0,No Marker,,
+2024-07-05 08:00:00,2024-07-05,08:00:00,,7.1,Before Breakfast,,
+2024-07-05 09:53:00,2024-07-05,09:53:00,08:00:00,13.8,After Breakfast,Breakfast,"Greek Yogurt, Cherries, Sourdough Toast"
+2024-07-05 12:08:00,2024-07-05,12:08:00,,9.2,No Marker,,
+2024-07-05 14:03:00,2024-07-05,14:03:00,,7.3,Before Lunch,,
+2024-07-05 16:46:00,2024-07-05,16:46:00,14:00:00,10.5,After Lunch,Lunch,"Arugula Salad w/Tomatoes, cucumbers, and radish + Sourdough Toast"
+2024-07-05 18:30:00,2024-07-05,18:30:00,,11.5,Before Supper,,
+2024-07-05 21:29:00,2024-07-05,21:29:00,21:30:00,6.6,After Supper,Supper,"Chicken thighs, peas, carrots and brown rice"
+2024-07-05 23:49:00,2024-07-05,23:49:00,,10.9,No Marker,,
+2024-07-06 08:39:00,2024-07-06,08:39:00,,10.4,Before Breakfast,,
+2024-07-06 11:08:00,2024-07-06,11:08:00,08:45:00,11.4,After Breakfast,Breakfast,Greek Yogurt + Strawberries
+2024-07-06 13:12:00,2024-07-06,13:12:00,,8.2,Before Lunch,,
+2024-07-06 16:00:00,2024-07-06,16:00:00,13:15:00,10.7,After Lunch,Lunch,1/2 Chicken sandwich on sourdough bread
+2024-07-06 19:59:00,2024-07-06,19:59:00,,5.8,Before Supper,,
+2024-07-06 23:04:00,2024-07-06,23:04:00,20:00:00,14.4,After Supper,Supper,Home made Pho w/ beef
+2024-07-07 09:56:00,2024-07-07,09:56:00,,7.8,Before Breakfast,,
+2024-07-07 12:45:00,2024-07-07,12:45:00,10:00:00,10.9,After Breakfast,Breakfast,"1/2 soft boiled egg w/hollandaise sauce, 1/2 slice of sourdough toast, smoked salmon, avocado + 1 mandarin orange"
+2024-07-07 14:11:00,2024-07-07,14:11:00,,10.6,Before Snack,,
+2024-07-07 16:44:00,2024-07-07,16:44:00,14:11:00,8.3,After Snack,Snack,4 Green Apple Slices
+2024-07-07 18:50:00,2024-07-07,18:50:00,,8.0,Before Supper,,
+2024-07-07 21:31:00,2024-07-07,21:31:00,19:00:00,8.9,After Supper,Supper,"Steak, tomato salad, brown rice, 1/2 keto brownie"
+2024-07-07 22:41:00,2024-07-07,22:41:00,,7.8,No Marker,,
+2024-07-08 09:21:00,2024-07-08,09:21:00,,6.9,Before Breakfast,,
+2024-07-08 11:50:00,2024-07-08,11:50:00,09:30:00,10.8,After Breakfast,Breakfast,2 pieces of toast (almond bread) + a banana
+2024-07-08 12:31:00,2024-07-08,12:31:00,,8.4,Before Lunch,,
+2024-07-08 14:57:00,2024-07-08,14:57:00,12:32:00,9.2,After Lunch,Lunch,Tuna salad sandwich on a cheese bun (Low / no glucose bread)
+2024-07-08 18:03:00,2024-07-08,18:03:00,,7.4,No Marker,,
+2024-07-08 19:06:00,2024-07-08,19:06:00,,7.2,Before Supper,,
+2024-07-08 21:59:00,2024-07-08,21:59:00,19:10:00,9.0,After Supper,Supper,"Lamb steak and wheat berry salad w/ peas + radishes, 1/2 ket brownie"
+2024-07-09 08:49:00,2024-07-09,08:49:00,,8.5,Before Breakfast,,
+2024-07-09 11:12:00,2024-07-09,11:12:00,09:00:00,13.9,After Breakfast,Breakfast,Greek Yogurt + 1 Toast (almond bread)
+2024-07-09 16:40:00,2024-07-09,16:40:00,14:00:00,5.9,After Lunch,Lunch,"3 Salmon Sashimi, 3 Scallop Sashimi, 1 piece fried chicken, ginger and cucumber slices"
+2024-07-09 19:00:00,2024-07-09,19:00:00,,6.1,No Marker,,
+2024-07-09 20:30:00,2024-07-09,20:30:00,,6.1,Before Supper,,
+2024-07-09 23:34:00,2024-07-09,23:34:00,20:30:00,7.0,After Supper,Supper,"Chicken breast, arugula + spinach + microgreen + radish + onion + tomato + cucumber salad"
+2024-07-10 08:33:00,2024-07-10,08:33:00,,6.6,Before Breakfast,,
+2024-07-10 11:11:00,2024-07-10,11:11:00,08:45:00,8.1,After Breakfast,Breakfast,Strawberries + Yogurt
+2024-07-10 14:12:00,2024-07-10,14:12:00,,6.7,Before Lunch,,
+2024-07-10 16:58:00,2024-07-10,16:58:00,14:30:00,9.3,After Lunch,Lunch,"Tuna salad sandwich, almond cheese bread, Gouda and cheddar cheese slices"
+2024-07-10 20:15:00,2024-07-10,20:15:00,,7.8,Before Supper,,
+2024-07-10 22:41:00,2024-07-10,22:41:00,20:20:00,7.9,After Supper,Supper,1-1/2 Beef fajitas on a keto bread pita
+2024-07-11 08:15:00,2024-07-11,08:15:00,,7.5,Before Breakfast,,
+2024-07-11 10:51:00,2024-07-11,10:51:00,08:30:00,9.3,After Breakfast,Breakfast,2 slices of avocado toast (sourdough or almond?) 
+2024-07-11 12:15:00,2024-07-11,12:15:00,,9.9,Before Lunch,,
+2024-07-11 14:58:00,2024-07-11,14:58:00,12:30:00,8.6,After Lunch,Lunch,1 Kiwi
+2024-07-11 16:19:00,2024-07-11,16:19:00,,6.6,No Marker,,
+2024-07-11 22:44:00,2024-07-11,22:44:00,19:00:00,8.6,After Supper,Supper,"Salmon and wheat berry salad w/ peas + radishes + small keto dessert mix (brownie, cheese cake, tart - 1/4 slices of each)"
+2024-07-12 08:41:00,2024-07-12,08:41:00,,8.4,Before Breakfast,,
+2024-07-12 11:20:00,2024-07-12,11:20:00,09:00:00,9.2,After Breakfast,Breakfast,1 Egg + toast
+2024-07-12 13:05:00,2024-07-12,13:05:00,,9.7,No Marker,,
+2024-07-12 15:00:00,2024-07-12,15:00:00,,8.0,No Marker,,
+2024-07-12 23:50:00,2024-07-12,23:50:00,19:00:00,8.7,After Supper,Supper,"Sirloin Steak + Short Rib, Potatoes & Gravy, Red Pepper & Broccoli"
+2024-07-13 09:00:00,2024-07-13,09:00:00,,7.9,No Marker,,
+2024-07-13 12:00:00,2024-07-13,12:00:00,,7.4,Before Lunch,,
+2024-07-13 15:30:00,2024-07-13,15:30:00,12:00:00,9.7,After Lunch,Lunch,Grilled cheese sandwich + chicken noodle soup mix
+2024-07-13 18:03:00,2024-07-13,18:03:00,,7.5,Before Supper,,
+2024-07-13 19:57:00,2024-07-13,19:57:00,20:00:00,5.9,After Supper,Supper,Cheese Burgers (1-1/2)
+2024-07-13 23:44:00,2024-07-13,23:44:00,,9.1,No Marker,,
+2024-07-14 09:30:00,2024-07-14,09:30:00,,7.8,Before Breakfast,,
+2024-07-14 13:30:00,2024-07-14,13:30:00,10:00:00,6.8,After Breakfast,Breakfast,"Pita sandwich w/ avocado, egg, feta cheese, and lemon juice"
+2024-07-14 17:57:00,2024-07-14,17:57:00,,5.9,No Marker,,
+2024-07-14 19:50:00,2024-07-14,19:50:00,,5.6,Before Supper,,
+2024-07-14 22:30:00,2024-07-14,22:30:00,20:00:00,10.9,After Supper,Supper,Nachos (low carb chips)
+2024-07-15 08:02:00,2024-07-15,08:02:00,,6.4,No Marker,,
+2024-07-15 10:40:00,2024-07-15,10:40:00,,6.7,No Marker,,
+2024-07-15 14:10:00,2024-07-15,14:10:00,,5.9,Before Lunch,,
+2024-07-15 17:02:00,2024-07-15,17:02:00,14:14:00,7.6,After Lunch,Lunch,"Ham and cheese sandwich on pumpernickel bread, 1 small strawberry + 1 raspberry + some blueberries"
+2024-07-15 18:51:00,2024-07-15,18:51:00,,5.9,Before Supper,,
+2024-07-15 21:17:00,2024-07-15,21:17:00,19:00:00,10.2,After Supper,Supper,Low carb spaghetti + 1 meatball
+2024-07-15 23:04:00,2024-07-15,23:04:00,,7.2,No Marker,,
+2024-07-16 08:18:00,2024-07-16,08:18:00,,6.2,No Marker,,
+2024-07-16 09:47:00,2024-07-16,09:47:00,,5.6,Before Breakfast,,
+2024-07-16 12:04:00,2024-07-16,12:04:00,10:00:00,8.3,After Breakfast,Breakfast,Avocado toast on pumpernickel bread
+2024-07-16 14:45:00,2024-07-16,14:45:00,,6.6,Before Lunch,,
+2024-07-16 17:43:00,2024-07-16,17:43:00,15:30:00,6.3,After Lunch,Lunch,"Fruit smoothie (strawberries, raspberries, blueberries) w/ greek yogurt and cream"
+2024-07-16 22:11:00,2024-07-16,22:11:00,19:50:00,8.4,After Supper,Supper,2 Beef fajitas on a keto bread pita
+2024-07-17 07:37:00,2024-07-17,07:37:00,,6.3,Before Breakfast,,
+2024-07-17 10:12:00,2024-07-17,10:12:00,14:30:00,8.5,After Lunch,Lunch,"Almond bread cheese bun w/ham, alfalfa, tomato sandwich"
+2024-07-17 11:54:00,2024-07-17,11:54:00,,7.0,No Marker,,
+2024-07-17 14:26:00,2024-07-17,14:26:00,,6.9,Before Lunch,,
+2024-07-17 17:00:00,2024-07-17,17:00:00,14:30:00,8.7,After Lunch,Lunch,"Almond bread cheese bun w/ham, alfalfa, tomato sandwich"
+2024-07-17 18:22:00,2024-07-17,18:22:00,,7.5,Before Supper,,
+2024-07-17 20:51:00,2024-07-17,20:51:00,18:30:00,10.6,After Supper,Supper,Fish tacos w/keto pita (X2)
+2024-07-17 22:54:00,2024-07-17,22:54:00,,7.9,No Marker,,
+2024-07-18 07:31:00,2024-07-18,07:31:00,,5.9,Before Breakfast,,
+2024-07-18 10:30:00,2024-07-18,10:30:00,08:45:00,9.3,After Breakfast,Breakfast,"Bacon + 1 Egg, 2 slices of pumpernickel toast"
+2024-07-18 12:30:00,2024-07-18,12:30:00,,6.4,Before Lunch,,
+2024-07-18 16:18:00,2024-07-18,16:18:00,12:45:00,6.3,After Lunch,Lunch,"Grilled cheese sandwich + chicken noodle soup mix, 1 Kiwi"
+2024-07-18 19:52:00,2024-07-18,19:52:00,,5.0,Before Supper,,
+2024-07-18 22:32:00,2024-07-18,22:32:00,20:00:00,7.8,After Supper,Supper,"Chicken breast, arugula & quinoa salad"
+2024-07-19 07:34:00,2024-07-19,07:34:00,,5.4,Before Breakfast,,
+2024-07-19 09:58:00,2024-07-19,09:58:00,07:45:00,7.3,After Breakfast,Breakfast,Avocado toast on pumpernickel bread
+2024-07-19 12:28:00,2024-07-19,12:28:00,,6.6,Before Lunch,,
+2024-07-19 15:10:00,2024-07-19,15:10:00,12:30:00,6.3,After Lunch,Lunch,Tuna salad sandwich w/avocado on pumpernickel bread (1 slice)
+2024-07-19 19:57:00,2024-07-19,19:57:00,,4.6,No Marker,,
+2024-07-20 09:00:00,2024-07-20,09:00:00,,6.6,Before Breakfast,,
+2024-07-20 12:20:00,2024-07-20,12:20:00,09:30:00,8.0,After Breakfast,Breakfast,"1 scrambled egg, 3 sausages, apple and a yogurt "
+2024-07-20 19:04:00,2024-07-20,19:04:00,,11.3,No Marker,,
+2024-07-20 22:00:00,2024-07-20,22:00:00,,6.1,No Marker,,
+2024-07-20 23:30:00,2024-07-20,23:30:00,,6.1,No Marker,,
+2024-07-21 08:37:00,2024-07-21,08:37:00,,4.8,Before Breakfast,,
+2024-07-21 11:58:00,2024-07-21,11:58:00,09:00:00,6.7,After Breakfast,Breakfast,"Scrambled eggs, bacon, potatoes, 1/4 waffle, small apple"
+2024-07-21 18:00:00,2024-07-21,18:00:00,,5.1,Before Supper,,
+2024-07-21 21:17:00,2024-07-21,21:17:00,18:30:00,8.5,After Supper,Supper,"Sushi Kinjo - Salmon Sashimi, Tuna Sashimi, Scallop Sashimi, Special Scallop, Beef Tataki, Lamb Chops"
+2024-07-21 23:21:00,2024-07-21,23:21:00,,8.2,No Marker,,
+2024-07-22 07:45:00,2024-07-22,07:45:00,,6.4,Before Breakfast,,
+2024-07-22 12:46:00,2024-07-22,12:46:00,08:00:00,8.3,After Breakfast,Breakfast,1 slice of pumpernickel toast w/butter
+2024-07-22 15:01:00,2024-07-22,15:01:00,,6.5,No Marker,,
+2024-07-22 18:48:00,2024-07-22,18:48:00,,6.7,Before Supper,,
+2024-07-22 22:56:00,2024-07-22,22:56:00,20:18:00,6.9,After Supper,Supper,"Chicken breast, broccoli microgreen salad w/cucumber, tomatoes and bell peppers and brown rice, lentils and quinoa , and 5 cherries for dessert "
+2024-07-23 07:41:00,2024-07-23,07:41:00,,6.5,Before Breakfast,,
+2024-07-23 11:30:00,2024-07-23,11:30:00,08:00:00,8.0,After Breakfast,Breakfast,"1 Fried egg w/ pumpernickel toast and butter, 6 cherries"
+2024-07-23 13:22:00,2024-07-23,13:22:00,,7.8,Before Lunch,,
+2024-07-23 17:06:00,2024-07-23,17:06:00,14:38:00,6.8,After Lunch,Lunch,Peanut butter on toast w/ tea
+2024-07-23 18:53:00,2024-07-23,18:53:00,,6.6,Before Supper,,
+2024-07-23 21:50:00,2024-07-23,21:50:00,19:04:00,6.7,After Supper,Supper,"Steak, broccoli microgreen salad w/cucumber, tomatoes and bell peppers and brown rice, lentils and quinoa"
+2024-07-24 07:41:00,2024-07-24,07:41:00,,6.2,Before Breakfast,,
+2024-07-24 10:00:00,2024-07-24,10:00:00,07:45:00,8.1,After Breakfast,Breakfast,Avocado toast on multigrain bread
+2024-07-24 11:19:00,2024-07-24,11:19:00,,5.4,No Marker,,
+2024-07-24 12:00:00,2024-07-24,12:00:00,,7.1,No Marker,,
+2024-07-24 13:06:00,2024-07-24,13:06:00,,7.0,Before Lunch,,
+2024-07-24 16:30:00,2024-07-24,16:30:00,13:30:00,6.0,After Lunch,Lunch,Grilled cheese sandwich on pumpernickel bread w/ gouda cheese
+2024-07-24 19:16:00,2024-07-24,19:16:00,,4.8,Before Supper,,
+2024-07-24 21:55:00,2024-07-24,21:55:00,19:30:00,7.8,After Supper,Supper,Chicken Alfredo pasta (packaged Alfredo sauce) w/ broccoli and low carb bread and garlic butter. 1/2 low carb chocolate muffin
+2024-07-24 23:41:00,2024-07-24,23:41:00,,7.2,No Marker,,
+2024-07-25 07:35:00,2024-07-25,07:35:00,,7.0,Before Breakfast,,
+2024-07-25 10:11:00,2024-07-25,10:11:00,07:45:00,7.8,After Breakfast,Breakfast,1 Slice of toast w/ peanut butter (natural PB)
+2024-07-25 12:00:00,2024-07-25,12:00:00,,6.2,Before Lunch,,
+2024-07-25 15:51:00,2024-07-25,15:51:00,12:30:00,5.4,After Lunch,Lunch,"Lettuce and microgreen salad w/ tomatoes, cucumbers, and radishes + 3 slices of gouda cheese"
+2024-07-25 19:30:00,2024-07-25,19:30:00,,5.0,No Marker,,
+2024-07-25 20:35:00,2024-07-25,20:35:00,,5.7,Before Supper,,
+2024-07-25 23:53:00,2024-07-25,23:53:00,20:45:00,5.9,After Supper,Supper,"Wheat fibre and wheat protein tortillas w/ chicken and cheese and pico de gallo, micro green salad. 1/2 low carb chocolate muffin"
+2024-07-26 09:30:00,2024-07-26,09:30:00,,6.3,Before Breakfast,,
+2024-07-26 12:04:00,2024-07-26,12:04:00,10:00:00,11.1,After Breakfast,Breakfast,"Glucose free pancakes w/blueberries, raspberries, strawberries and maple syrup "
+2024-07-26 14:55:00,2024-07-26,14:55:00,,5.9,No Marker,,
+2024-07-26 17:44:00,2024-07-26,17:44:00,,5.5,No Marker,,
+2024-07-26 18:53:00,2024-07-26,18:53:00,,4.9,Before Supper,,
+2024-07-26 22:02:00,2024-07-26,22:02:00,19:00:00,6.0,After Supper,Supper,"Steak and pico de gallo, and brown rice w/lentils and quinoa"
+2024-07-27 09:00:00,2024-07-27,09:00:00,,5.0,Before Breakfast,,
+2024-07-27 11:48:00,2024-07-27,11:48:00,09:15:00,8.8,After Breakfast,Breakfast,"Shakshuka (Eggs in Tomato, and onions) w/ 2 slices of pumpernickel toast and butter"
+2024-07-27 14:34:00,2024-07-27,14:34:00,,5.8,No Marker,,
+2024-07-27 16:37:00,2024-07-27,16:37:00,,5.5,No Marker,,
+2024-07-27 19:09:00,2024-07-27,19:09:00,,4.8,Before Supper,,
+2024-07-27 21:53:00,2024-07-27,21:53:00,19:15:00,9.0,After Supper,Supper,"Chicken and tomato ramen soup w/carrots, radish, broccoli, baby corn, millet and brown rice noodles, 1/2 low carb chocolate muffin"
+2024-07-27 23:53:00,2024-07-27,23:53:00,,7.4,No Marker,,
+2024-07-28 10:39:00,2024-07-28,10:39:00,,4.9,No Marker,,
+2024-07-28 12:00:00,2024-07-28,12:00:00,,6.0,Before Lunch,,
+2024-07-28 15:17:00,2024-07-28,15:17:00,12:30:00,10.4,After Lunch,Lunch,"Dim Sum - sticky rice, pork ribs, sumai, hagaou, Chinese donut"
+2024-07-28 17:20:00,2024-07-28,17:20:00,,6.7,No Marker,,
+2024-07-28 19:30:00,2024-07-28,19:30:00,,5.7,Before Supper,,
+2024-07-28 21:52:00,2024-07-28,21:52:00,19:45:00,6.7,After Supper,Supper,"Spinach and arugula salad w/ micro greens and beats, with walnuts and pistachios and bacon + feta cheese. 1/2 low carb chocolate muffin"
+2024-07-29 08:04:00,2024-07-29,08:04:00,,4.9,Before Breakfast,,
+2024-07-29 11:37:00,2024-07-29,11:37:00,08:50:00,7.0,After Breakfast,Breakfast,Avocado toast w/muesli toast + 1/2 hard boiled egg
+2024-07-29 12:58:00,2024-07-29,12:58:00,,6.8,Before Lunch,,
+2024-07-29 16:17:00,2024-07-29,16:17:00,13:15:00,6.2,After Lunch,Lunch,Chicken breast sandwich w/ alfalfa sprouts on a keto cheese bread
+2024-07-29 18:05:00,2024-07-29,18:05:00,,7.1,Before Supper,,
+2024-07-29 21:09:00,2024-07-29,21:09:00,18:50:00,7.6,After Supper,Supper,1 - 1/2 Cheeseburgers on keto buns
+2024-07-29 23:14:00,2024-07-29,23:14:00,,6.9,No Marker,,
+2024-07-30 07:23:00,2024-07-30,07:23:00,,5.6,Before Breakfast,,
+2024-07-30 20:40:00,2024-07-30,20:40:00,18:00:00,8.4,After Supper,Supper,Spicy beef rice bowl + salmon sashimi
+2024-07-31 08:39:00,2024-07-31,08:39:00,,6.1,No Marker,,
+2024-07-31 18:04:00,2024-07-31,18:04:00,,5.4,No Marker,,
+2024-07-31 20:15:00,2024-07-31,20:15:00,,5.0,Before Supper,,
+2024-07-31 22:40:00,2024-07-31,22:40:00,20:15:00,5.9,After Supper,Supper,Chicken stir fry 
+2024-08-01 08:50:00,2024-08-01,08:50:00,,5.7,No Marker,,
+2024-08-01 11:25:00,2024-08-01,11:25:00,,6.1,Before Lunch,,
+2024-08-01 16:31:00,2024-08-01,16:31:00,12:30:00,5.6,After Lunch,Lunch,Gouda cheese and mixed nuts
+2024-08-01 17:39:00,2024-08-01,17:39:00,,4.6,Before Supper,,
+2024-08-01 21:29:00,2024-08-01,21:29:00,18:00:00,14.8,After Supper,Supper,"Korean rice bowl w/ short ribs + kimchi, radishes, bean sprouts + korean fried chicken"
+2024-08-01 23:38:00,2024-08-01,23:38:00,,13.9,No Marker,,
+2024-08-02 08:49:00,2024-08-02,08:49:00,,6.4,No Marker,,
+2024-08-02 10:34:00,2024-08-02,10:34:00,,7.3,No Marker,,
+2024-08-02 12:00:00,2024-08-02,12:00:00,,6.9,No Marker,,
+2024-08-02 16:30:00,2024-08-02,16:30:00,,4.9,No Marker,,
+2024-08-02 18:47:00,2024-08-02,18:47:00,,4.1,Before Supper,,
+2024-08-02 21:50:00,2024-08-02,21:50:00,18:49:00,6.8,After Supper,Supper,Spaghetti and 2 meatballs  
+2024-08-03 10:24:00,2024-08-03,10:24:00,,5.5,No Marker,,
+2024-08-03 12:00:00,2024-08-03,12:00:00,,5.4,Before Lunch,,
+2024-08-03 14:20:00,2024-08-03,14:20:00,12:10:00,8.6,After Lunch,Lunch,Waffle w/Blueberries and strawberries + side of bacon
+2024-08-03 16:58:00,2024-08-03,16:58:00,,5.3,No Marker,,
+2024-08-03 19:53:00,2024-08-03,19:53:00,,4.6,Before Supper,,
+2024-08-03 23:24:00,2024-08-03,23:24:00,20:00:00,7.2,After Supper,Supper,Chicken stir fry w/ long beans + brown and red jasmine rice
+2024-08-04 09:36:00,2024-08-04,09:36:00,,5.2,Before Breakfast,,
+2024-08-04 12:14:00,2024-08-04,12:14:00,09:45:00,6.7,After Breakfast,Breakfast,Waffle w/Blueberries and strawberries
+2024-08-04 14:25:00,2024-08-04,14:25:00,,5.2,No Marker,,
+2024-08-04 17:33:00,2024-08-04,17:33:00,,4.1,Before Supper,,
+2024-08-04 21:36:00,2024-08-04,21:36:00,07:30:00,10.7,After Supper,Supper,"Taste of Calgary: Short Ribs w/rice, beef empanada, deep fried soft shell crab, ice cream taco w/churro"
+2024-08-04 23:32:00,2024-08-04,23:32:00,,8.6,No Marker,,
+2024-08-05 09:57:00,2024-08-05,09:57:00,,4.8,No Marker,,
+2024-08-05 11:21:00,2024-08-05,11:21:00,,5.6,Before Breakfast,,
+2024-08-05 13:48:00,2024-08-05,13:48:00,11:15:00,7.4,After Breakfast,Breakfast,Pumpernickel toast w/ natural peanut butter + fresh cherries
+2024-08-05 15:36:00,2024-08-05,15:36:00,,6.1,Before Snack,,
+2024-08-05 17:58:00,2024-08-05,17:58:00,15:24:00,7.8,After Snack,Snack,14 Cherries
+2024-08-05 22:15:00,2024-08-05,22:15:00,19:00:00,9.6,After Supper,Supper,Chinese food (authentic) - Bobby Chao's
+2024-08-06 08:05:00,2024-08-06,08:05:00,,6.7,No Marker,,
+2024-08-06 12:14:00,2024-08-06,12:14:00,,5.9,No Marker,,
+2024-08-06 14:00:00,2024-08-06,14:00:00,,5.4,No Marker,,
+2024-08-06 15:00:00,2024-08-06,15:00:00,,5.7,Before Snack,,
+2024-08-06 17:19:00,2024-08-06,17:19:00,15:10:00,8.3,After Snack,Snack,10 Fresh Cherries + greek yogurt
+2024-08-06 19:18:00,2024-08-06,19:18:00,,6.7,Before Supper,,
+2024-08-06 23:21:00,2024-08-06,23:21:00,19:30:00,6.3,After Supper,Supper,Chicken and spinach salad with beets and nuts
+2024-08-07 08:53:00,2024-08-07,08:53:00,,5.8,No Marker,,
+2024-08-07 11:11:00,2024-08-07,11:11:00,,5.6,Before Lunch,,
+2024-08-07 14:09:00,2024-08-07,14:09:00,11:30:00,7.7,After Lunch,Lunch,Smoked salmon and avocado on pumpernickel toast 
+2024-08-07 20:30:00,2024-08-07,20:30:00,,5.6,Before Supper,,
+2024-08-07 23:46:00,2024-08-07,23:46:00,20:45:00,8.5,After Supper,Supper,Steak w/ 1/2 baked potato and pico de gallo and a fudge brownie (keto) w/ strawberries
+2024-08-08 09:30:00,2024-08-08,09:30:00,,5.8,No Marker,,
+2024-08-08 13:20:00,2024-08-08,13:20:00,,6.7,No Marker,,
+2024-08-08 15:06:00,2024-08-08,15:06:00,,6.2,No Marker,,
+2024-08-08 18:48:00,2024-08-08,18:48:00,,5.5,Before Supper,,
+2024-08-08 21:32:00,2024-08-08,21:32:00,19:00:00,8.7,After Supper,Supper,Shrimp and spinach with egg noodle pasta
+2024-08-08 23:44:00,2024-08-08,23:44:00,,8.6,No Marker,,
+2024-08-09 09:28:00,2024-08-09,09:28:00,,5.2,No Marker,,
+2024-08-09 11:47:00,2024-08-09,11:47:00,,5.5,No Marker,,
+2024-08-09 12:44:00,2024-08-09,12:44:00,,5.2,Before Lunch,,
+2024-08-09 15:41:00,2024-08-09,15:41:00,12:45:00,5.7,After Lunch,Lunch,Prosciutto and cheese sandwich on a keto pita
+2024-08-09 17:55:00,2024-08-09,17:55:00,,5.8,Before Supper,,
+2024-08-09 21:42:00,2024-08-09,21:42:00,19:00:00,9.7,After Supper,Supper,Home made Pho w/ beef
+2024-08-10 11:45:00,2024-08-10,11:45:00,,6.0,Before Lunch,,
+2024-08-10 15:19:00,2024-08-10,15:19:00,12:00:00,7.8,After Lunch,Lunch,2 slices of avocado toast on pumpernickel bread
+2024-08-10 17:42:00,2024-08-10,17:42:00,,5.7,No Marker,,
+2024-08-10 19:00:00,2024-08-10,19:00:00,,5.3,Before Supper,,
+2024-08-10 21:23:00,2024-08-10,21:23:00,19:15:00,8.2,After Supper,Supper,1/2 Chicken shawarma + Greek salad + 5 watermelon cubes
+2024-08-10 23:47:00,2024-08-10,23:47:00,,7.6,No Marker,,
+2024-08-11 10:03:00,2024-08-11,10:03:00,,6.1,Before Breakfast,,
+2024-08-11 14:45:00,2024-08-11,14:45:00,11:30:00,11.7,After Breakfast,Breakfast,"Dim Sum - sticky rice, pork ribs, sumai, hagaou, Chinese donut"
+2024-08-11 17:21:00,2024-08-11,17:21:00,,6.4,No Marker,,
+2024-08-11 19:17:00,2024-08-11,19:17:00,,6.7,Before Supper,,
+2024-08-11 21:49:00,2024-08-11,21:49:00,19:30:00,9.4,After Supper,Supper,Chicken and beer shawarma 
+2024-08-11 23:50:00,2024-08-11,23:50:00,,7.2,No Marker,,
+2024-08-12 09:54:00,2024-08-12,09:54:00,,6.1,No Marker,,
+2024-08-12 11:00:00,2024-08-12,11:00:00,,6.0,Before Breakfast,,
+2024-08-12 13:58:00,2024-08-12,13:58:00,11:00:00,8.4,After Breakfast,Breakfast,"Bacon, 1 egg and pumpernickel toast"
+2024-08-12 17:19:00,2024-08-12,17:19:00,,4.6,No Marker,,
+2024-08-12 19:00:00,2024-08-12,19:00:00,,4.6,Before Supper,,
+2024-08-12 21:46:00,2024-08-12,21:46:00,19:00:00,7.1,After Supper,Supper,Edo Japan - Beef teriyaki with yakisoba noodles and vegetables 
+2024-08-13 08:46:00,2024-08-13,08:46:00,,5.4,No Marker,,
+2024-08-13 10:39:00,2024-08-13,10:39:00,,5.3,No Marker,,
+2024-08-13 11:22:00,2024-08-13,11:22:00,,5.2,Before Lunch,,
+2024-08-13 14:30:00,2024-08-13,14:30:00,12:00:00,6.8,After Lunch,Lunch,1/2 Slice of pumpernickel French toast w/mixed fruits and berries + side of bacon
+2024-08-13 18:10:00,2024-08-13,18:10:00,,5.3,No Marker,,
+2024-08-13 19:22:00,2024-08-13,19:22:00,,5.1,Before Supper,,
+2024-08-13 22:00:00,2024-08-13,22:00:00,19:52:00,7.7,After Supper,Supper,Spaghetti  and 3 meatballs 
+2024-08-13 23:50:00,2024-08-13,23:50:00,,7.6,No Marker,,
+2024-08-14 10:42:00,2024-08-14,10:42:00,,5.3,No Marker,,
+2024-08-14 12:13:00,2024-08-14,12:13:00,,5.4,Before Lunch,,
+2024-08-14 16:55:00,2024-08-14,16:55:00,14.:30,8.7,After Lunch,Lunch,Blaze 1 topping (Basil) pizza
+2024-08-14 18:23:00,2024-08-14,18:23:00,,8.2,Before Supper,,
+2024-08-14 21:41:00,2024-08-14,21:41:00,19:07:00,6.3,After Supper,Supper,Mixed sausage and veggies with lentil rice
+2024-08-14 23:31:00,2024-08-14,23:31:00,,6.2,No Marker,,
+2024-08-15 09:10:00,2024-08-15,09:10:00,,5.4,No Marker,,
+2024-08-15 11:35:00,2024-08-15,11:35:00,,5.7,Before Lunch,,
+2024-08-15 14:02:00,2024-08-15,14:02:00,11:40:00,6.6,After Lunch,Lunch,French toast on keto bread (1 slice) w/fruits and berries and a side of bacon
+2024-08-15 16:00:00,2024-08-15,16:00:00,,5.2,No Marker,,
+2024-08-15 18:10:00,2024-08-15,18:10:00,,4.8,No Marker,,
+2024-08-15 19:05:00,2024-08-15,19:05:00,,4.8,Before Supper,,
+2024-08-15 22:35:00,2024-08-15,22:35:00,19:15:00,6.7,After Supper,Supper,Spaghetti  and 3 meatballs 
+2024-08-15 23:48:00,2024-08-15,23:48:00,,6.4,No Marker,,
+2024-08-16 10:30:00,2024-08-16,10:30:00,,5.1,No Marker,,
+2024-08-16 12:00:00,2024-08-16,12:00:00,,5.3,Before Lunch,,
+2024-08-16 15:17:00,2024-08-16,15:17:00,12:30:00,10.2,After Lunch,Lunch,Blaze 1 topping (Basil) pizza
+2024-08-16 17:16:00,2024-08-16,17:16:00,,8.4,No Marker,,
+2024-08-16 19:53:00,2024-08-16,19:53:00,,5.9,Before Supper,,
+2024-08-16 23:06:00,2024-08-16,23:06:00,20:00:00,5.9,After Supper,Supper,Lamb / beef kebabs with Greek Salad
+2024-08-17 12:12:00,2024-08-17,12:12:00,,5.0,No Marker,,
+2024-08-17 13:30:00,2024-08-17,13:30:00,,4.8,Before Lunch,,
+2024-08-17 16:09:00,2024-08-17,16:09:00,13:30:00,7.4,After Lunch,Lunch,Vietnamese beef satay sub
+2024-08-17 17:50:00,2024-08-17,17:50:00,,4.2,No Marker,,
+2024-08-17 20:21:00,2024-08-17,20:21:00,,3.2,Before Supper,,
+2024-08-17 23:06:00,2024-08-17,23:06:00,20:30:00,5.7,After Supper,Supper,"1 tablespoon of maple syrup, Lamb / beef kebabs with Greek Salad, 1/2 ice cream sandwich (keto)"
+2024-08-18 11:20:00,2024-08-18,11:20:00,,4.9,Before Lunch,,
+2024-08-18 14:01:00,2024-08-18,14:01:00,12:00:00,9.2,After Lunch,Lunch,2 Keto toast with peanut butter and jam + Earl Gray tea
+2024-08-18 16:20:00,2024-08-18,16:20:00,,5.5,No Marker,,
+2024-08-18 18:17:00,2024-08-18,18:17:00,,5.6,Before Supper,,
+2024-08-18 22:08:00,2024-08-18,22:08:00,19:10:00,8.3,After Supper,Supper,Chinese food (authentic) - Hong Kong Cafe
+2024-08-18 22:35:00,2024-08-18,22:35:00,,10.7,No Marker,,
+2024-08-19 08:13:00,2024-08-19,08:13:00,,6.9,No Marker,,
+2024-08-19 10:08:00,2024-08-19,10:08:00,,5.6,Before Breakfast,,
+2024-08-19 13:13:00,2024-08-19,13:13:00,10:30:00,6.3,After Breakfast,Breakfast,1 Egg + 1 slice of Almond bread toast
+2024-08-19 15:00:00,2024-08-19,15:00:00,,5.9,No Marker,,
+2024-08-19 17:15:00,2024-08-19,17:15:00,,4.7,No Marker,,
+2024-08-19 19:00:00,2024-08-19,19:00:00,,4.9,Before Supper,,
+2024-08-19 21:37:00,2024-08-19,21:37:00,19:15:00,7.6,After Supper,Supper,Home made pho and 1/4 cheese cake (keto)
+2024-08-19 23:22:00,2024-08-19,23:22:00,,6.1,No Marker,,
+2024-08-20 09:30:00,2024-08-20,09:30:00,,5.2,No Marker,,
+2024-08-20 11:05:00,2024-08-20,11:05:00,,5.6,Before Breakfast,,
+2024-08-20 15:02:00,2024-08-20,15:02:00,11:00:00,7.4,After Breakfast,Breakfast,1 Egg + 1/2 slice of Almond baguette toast
+2024-08-20 17:45:00,2024-08-20,17:45:00,,8.3,No Marker,,
+2024-08-20 19:06:00,2024-08-20,19:06:00,,5.8,Before Supper,,
+2024-08-20 21:38:00,2024-08-20,21:38:00,19:15:00,5.9,After Supper,Supper,"1/2 Chicken breast and arugula salad w/ cucumber, tomato, and onion"
+2024-08-21 09:20:00,2024-08-21,09:20:00,,4.9,No Marker,,
+2024-08-21 13:34:00,2024-08-21,13:34:00,,5.8,Before Lunch,,
+2024-08-21 16:12:00,2024-08-21,16:12:00,13:45:00,5.6,After Lunch,Lunch,1/2 roast beef sandwich on almond flour cheese bun + small bowl of French onion soup
+2024-08-21 19:00:00,2024-08-21,19:00:00,,5.2,Before Supper,,
+2024-08-21 21:48:00,2024-08-21,21:48:00,19:15:00,8.0,After Supper,Supper,"Edo Japan - Beef teriyaki  and shrimp with yakisoba noodles and vegetables, 1/2 cheesecake (keto)"
+2024-08-21 23:49:00,2024-08-21,23:49:00,,5.9,No Marker,,
+2024-08-22 08:59:00,2024-08-22,08:59:00,,5.3,No Marker,,
+2024-08-22 11:17:00,2024-08-22,11:17:00,,5.6,No Marker,,
+2024-08-22 12:36:00,2024-08-22,12:36:00,,5.4,Before Lunch,,
+2024-08-22 15:12:00,2024-08-22,15:12:00,12:45:00,8.0,After Lunch,Lunch,Greek yogurt w/dark chocolate chips
+2024-08-22 17:01:00,2024-08-22,17:01:00,,5.7,No Marker,,
+2024-08-22 19:20:00,2024-08-22,19:20:00,,9.1,Before Supper,,
+2024-08-22 22:19:00,2024-08-22,22:19:00,19:30:00,6.5,After Supper,Supper,"Spicy beef kebabs with Greek Salad, 1/2 cheesecake (keto)"
+2024-08-22 23:40:00,2024-08-22,23:40:00,,6.5,No Marker,,
+2024-08-23 09:00:00,2024-08-23,09:00:00,,5.3,Before Breakfast,,
+2024-08-23 11:23:00,2024-08-23,11:23:00,09:10:00,6.1,After Breakfast,Breakfast,Toast with butter (keto multigrain bread) and Earl Gray tea
+2024-08-23 13:06:00,2024-08-23,13:06:00,,4.2,Before Lunch,,
+2024-08-23 15:33:00,2024-08-23,15:33:00,13:15:00,6.2,After Lunch,Lunch,Chicken sandwich on pumpernickel bread w/ cheese and arugula
+2024-08-23 18:45:00,2024-08-23,18:45:00,,4.9,Before Supper,,
+2024-08-23 21:46:00,2024-08-23,21:46:00,19:00:00,6.2,After Supper,Supper,Spaghetti  and 2 meatballs 
+2024-08-23 23:45:00,2024-08-23,23:45:00,,6.3,No Marker,,
+2024-08-24 10:57:00,2024-08-24,10:57:00,,5.1,No Marker,,
+2024-08-24 12:59:00,2024-08-24,12:59:00,,5.3,Before Lunch,,
+2024-08-24 15:34:00,2024-08-24,15:34:00,13:15:00,8.3,After Lunch,Lunch,Soup and a roast beef sandwich on pumpernickel bread
+2024-08-24 17:42:00,2024-08-24,17:42:00,,5.9,No Marker,,
+2024-08-24 19:00:00,2024-08-24,19:00:00,,6.5,Before Supper,,
+2024-08-24 22:03:00,2024-08-24,22:03:00,19:30:00,8.9,After Supper,Supper,Chicken cordon bleu w/wild jasmine wild rice and steamed broccoli
+2024-08-24 23:31:00,2024-08-24,23:31:00,,6.3,No Marker,,
+2024-08-25 09:07:00,2024-08-25,09:07:00,,4.9,No Marker,,
+2024-08-25 12:31:00,2024-08-25,12:31:00,,5.1,Before Lunch,,
+2024-08-25 15:12:00,2024-08-25,15:12:00,12:30:00,10.5,After Lunch,Lunch,"Hamburger, hotdog, corn on the cob, cake and icecream"
+2024-08-25 21:04:00,2024-08-25,21:04:00,,8.3,No Marker,,
+2024-08-25 23:05:00,2024-08-25,23:05:00,,9.3,No Marker,,
+2024-08-25 23:43:00,2024-08-25,23:43:00,,7.7,No Marker,,
+2024-08-26 08:50:00,2024-08-26,08:50:00,,5.2,No Marker,,
+2024-08-26 11:50:00,2024-08-26,11:50:00,,5.4,No Marker,,
+2024-08-26 13:15:00,2024-08-26,13:15:00,,5.1,Before Lunch,,
+2024-08-26 15:39:00,2024-08-26,15:39:00,13:30:00,5.9,After Lunch,Lunch,Soup and a roast beef sandwich on pumpernickel bread
+2024-08-26 18:51:00,2024-08-26,18:51:00,,4.7,Before Supper,,
+2024-08-26 21:15:00,2024-08-26,21:15:00,19:00:00,8.3,After Supper,Supper,Chicken Alfredo pasta + 1/4 ice cream sandwich (keto)
+2024-08-26 23:23:00,2024-08-26,23:23:00,,7.6,No Marker,,
+2024-08-27 09:30:00,2024-08-27,09:30:00,,5.1,Before Breakfast,,
+2024-08-27 13:20:00,2024-08-27,13:20:00,10:00:00,6.5,After Breakfast,Breakfast,Pumpernickel toast with an egg
+2024-08-27 15:23:00,2024-08-27,15:23:00,,7.3,No Marker,,
+2024-08-27 17:23:00,2024-08-27,17:23:00,,7.2,No Marker,,
+2024-08-27 19:17:00,2024-08-27,19:17:00,,5.4,Before Supper,,
+2024-08-27 22:33:00,2024-08-27,22:33:00,19:30:00,7.9,After Supper,Supper,Salmon fillet with wheat berry salad w/ peas + radishes + 1/2 keto ice cream sandwich 
+2024-08-27 23:44:00,2024-08-27,23:44:00,,6.9,No Marker,,
+2024-08-28 09:14:00,2024-08-28,09:14:00,,5.3,Before Breakfast,,
+2024-08-28 12:15:00,2024-08-28,12:15:00,09:15:00,5.6,After Breakfast,Breakfast,Peanut butter and jam on pumpernickel toast
+2024-08-28 13:02:00,2024-08-28,13:02:00,,5.1,Before Lunch,,
+2024-08-28 15:17:00,2024-08-28,15:17:00,13:15:00,5.4,After Lunch,Lunch,1/2 Tuna sandwich on pumpernickel bread
+2024-08-28 18:00:00,2024-08-28,18:00:00,,4.9,No Marker,,
+2024-08-28 18:50:00,2024-08-28,18:50:00,,5.1,Before Supper,,
+2024-08-28 21:24:00,2024-08-28,21:24:00,19:00:00,8.3,After Supper,Supper,"Roast beef, with carrots and potatoes w jasmine wild rice"
+2024-08-28 23:54:00,2024-08-28,23:54:00,,6.1,No Marker,,
+2024-08-29 08:15:00,2024-08-29,08:15:00,,4.8,No Marker,,
+2024-08-29 11:35:00,2024-08-29,11:35:00,,4.9,Before Lunch,,
+2024-08-29 14:29:00,2024-08-29,14:29:00,12:15:00,8.9,After Lunch,Lunch,Blaze 1 topping (Basil) pizza
+2024-08-29 16:30:00,2024-08-29,16:30:00,,7.8,No Marker,,
+2024-08-29 19:15:00,2024-08-29,19:15:00,,5.3,Before Supper,,
+2024-08-29 21:59:00,2024-08-29,21:59:00,19:25:00,6.8,After Supper,Supper,Pork chops with potatoes and broccoli
+2024-08-29 23:35:00,2024-08-29,23:35:00,,6.7,No Marker,,
+2024-08-30 07:38:00,2024-08-30,07:38:00,,5.2,No Marker,,
+2024-08-30 10:41:00,2024-08-30,10:41:00,,5.6,No Marker,,
+2024-08-30 12:30:00,2024-08-30,12:30:00,,5.3,No Marker,,
+2024-08-30 15:00:00,2024-08-30,15:00:00,,7.1,No Marker,,
+2024-08-30 17:21:00,2024-08-30,17:21:00,,6.4,No Marker,,
+2024-08-30 18:45:00,2024-08-30,18:45:00,,4.9,Before Supper,,
+2024-08-30 21:25:00,2024-08-30,21:25:00,19:00:00,5.9,After Supper,Supper,"Spaghetti  and 3 meatballs, flax seed chocolate flour cupcake + ganache"
+2024-08-30 23:47:00,2024-08-30,23:47:00,,5.8,No Marker,,
+2024-08-31 10:30:00,2024-08-31,10:30:00,,5.0,No Marker,,
+2024-08-31 11:25:00,2024-08-31,11:25:00,,5.2,Before Lunch,,
+2024-08-31 14:00:00,2024-08-31,14:00:00,11:45:00,6.6,After Lunch,Lunch,"2 Eggs, Bacon and tomatoes with keto toast"
+2024-08-31 17:17:00,2024-08-31,17:17:00,,6.4,No Marker,,
+2024-08-31 18:20:00,2024-08-31,18:20:00,,5.7,Before Supper,,
+2024-08-31 22:12:00,2024-08-31,22:12:00,19:20:00,10.1,After Supper,Supper,Mogouyan (Restaurant) -   Braised beef noodles soup + 1 beef skewer and 1 lamb skewer
+2024-08-31 23:30:00,2024-08-31,23:30:00,,9.0,No Marker,,
+2024-09-01 11:45:00,2024-09-01,11:45:00,,4.8,Before Lunch,,
+2024-09-01 14:37:00,2024-09-01,14:37:00,12:15:00,7.3,After Lunch,Lunch,Kodiak waffle with sausage and bacon
+2024-09-01 17:27:00,2024-09-01,17:27:00,,5.1,No Marker,,
+2024-09-01 18:55:00,2024-09-01,18:55:00,,5.1,Before Supper,,
+2024-09-01 21:21:00,2024-09-01,21:21:00,19:15:00,6.9,After Supper,Supper,Chicken pasta with red pepper pesto and Parmesan cheese
+2024-09-01 23:22:00,2024-09-01,23:22:00,,8.6,No Marker,,
+2024-09-02 11:06:00,2024-09-02,11:06:00,,5.9,Before Lunch,,
+2024-09-02 14:35:00,2024-09-02,14:35:00,11:45:00,5.7,After Lunch,Lunch,1 Egg + carbonaught toast and some tomato slices
+2024-09-02 17:00:00,2024-09-02,17:00:00,,6.1,No Marker,,
+2024-09-02 19:10:00,2024-09-02,19:10:00,,5.9,Before Supper,,
+2024-09-02 21:43:00,2024-09-02,21:43:00,19:15:00,7.9,After Supper,Supper,Gluten free wheat noodle stir fry with chicken and broccoli and a flax seed chocolate flour cupcake w/ ganache
+2024-09-02 23:32:00,2024-09-02,23:32:00,,6.8,No Marker,,
+2024-09-03 08:18:00,2024-09-03,08:18:00,,5.8,Before Breakfast,,
+2024-09-03 11:23:00,2024-09-03,11:23:00,09:00:00,6.1,After Breakfast,Breakfast,2 slices of toast on carbonot bread w/ avocado
+2024-09-03 13:07:00,2024-09-03,13:07:00,,6.1,Before Lunch,,
+2024-09-03 16:20:00,2024-09-03,16:20:00,13:10:00,5.4,After Lunch,Lunch,"8 Apple slices, 6 grapes, Guoda and Oka Cheese, spicy Calabrese and Prociutto slices"
+2024-09-03 17:42:00,2024-09-03,17:42:00,,5.4,Before Supper,,
+2024-09-03 20:10:00,2024-09-03,20:10:00,17:50:00,7.9,After Supper,Supper,Edo Japan -  Beef and shrimp udon + spring roll
+2024-09-03 22:30:00,2024-09-03,22:30:00,,6.1,No Marker,,
+2024-09-04 08:21:00,2024-09-04,08:21:00,,5.7,No Marker,,
+2024-09-04 12:51:00,2024-09-04,12:51:00,,5.5,Before Lunch,,
+2024-09-04 16:27:00,2024-09-04,16:27:00,13:18:00,5.1,After Lunch,Lunch,"1 green apple, Gouda and Oka cheese, thin slices of Prosciutto and spicy Calabrese meats"
+2024-09-04 18:12:00,2024-09-04,18:12:00,,5.1,Before Supper,,
+2024-09-04 21:04:00,2024-09-04,21:04:00,18:20:00,9.6,After Supper,Supper,"Pizza, 3 slices of pepperoni and 1 slice of beer and onion"
+2024-09-04 23:06:00,2024-09-04,23:06:00,,7.2,No Marker,,
+2024-09-05 08:10:00,2024-09-05,08:10:00,,4.7,Before Breakfast,,
+2024-09-05 10:40:00,2024-09-05,10:40:00,08:20:00,6.9,After Breakfast,Breakfast,Avocado toast and tea
+2024-09-05 11:49:00,2024-09-05,11:49:00,,6.6,Before Lunch,,
+2024-09-05 14:34:00,2024-09-05,14:34:00,12:00:00,5.5,After Lunch,Lunch,"1 Peach, Gouda and Oka cheese, thin slices of Prosciutto and spicy Calabrese meats"
+2024-09-05 16:36:00,2024-09-05,16:36:00,,5.2,No Marker,,
+2024-09-05 18:20:00,2024-09-05,18:20:00,,5.1,Before Supper,,
+2024-09-05 21:18:00,2024-09-05,21:18:00,18:50:00,9.4,After Supper,Supper,"Steamed fish, Broccoli, Bbq duck, Bbq Chinese sausage and jasmine rice"
