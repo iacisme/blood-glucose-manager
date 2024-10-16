@@ -383,7 +383,7 @@ DateTime,Date,TimeTest,TimeMeal,Glucose (mmol/L),Marker,Meal Type,Description
 2024-09-03 08:18:00,2024-09-03,08:18:00,,5.8,Before Breakfast,,
 2024-09-03 11:23:00,2024-09-03,11:23:00,09:00:00,6.1,After Breakfast,Breakfast,2 slices of toast on carbonot bread w/ avocado
 2024-09-03 13:07:00,2024-09-03,13:07:00,,6.1,Before Lunch,,
-2024-09-03 16:20:00,2024-09-03,16:20:00,13:10:00,5.4,After Lunch,Lunch,"8 Apple slices, 6 grapes, Guoda and Oka Cheese, spicy Calabrese and Prociutto slices"
+2024-09-03 16:20:00,2024-09-03,16:20:00,13:10:00,5.4,After Lunch,Lunch,"8 Apple slices, 6 grapes, Guoda and Oka Cheese, spicy Calabrese and Prosciutto slices"
 2024-09-03 17:42:00,2024-09-03,17:42:00,,5.4,Before Supper,,
 2024-09-03 20:10:00,2024-09-03,20:10:00,17:50:00,7.9,After Supper,Supper,Edo Japan -  Beef and shrimp udon + spring roll
 2024-09-03 22:30:00,2024-09-03,22:30:00,,6.1,No Marker,,
@@ -391,7 +391,7 @@ DateTime,Date,TimeTest,TimeMeal,Glucose (mmol/L),Marker,Meal Type,Description
 2024-09-04 12:51:00,2024-09-04,12:51:00,,5.5,Before Lunch,,
 2024-09-04 16:27:00,2024-09-04,16:27:00,13:18:00,5.1,After Lunch,Lunch,"1 green apple, Gouda and Oka cheese, thin slices of Prosciutto and spicy Calabrese meats"
 2024-09-04 18:12:00,2024-09-04,18:12:00,,5.1,Before Supper,,
-2024-09-04 21:04:00,2024-09-04,21:04:00,18:20:00,9.6,After Supper,Supper,"Pizza, 3 slices of pepperoni and 1 slice of beer and onion"
+2024-09-04 21:04:00,2024-09-04,21:04:00,18:20:00,9.6,After Supper,Supper,"Pizza, 3 slices of pepperoni and 1 slice of beef and onion"
 2024-09-04 23:06:00,2024-09-04,23:06:00,,7.2,No Marker,,
 2024-09-05 08:10:00,2024-09-05,08:10:00,,4.7,Before Breakfast,,
 2024-09-05 10:40:00,2024-09-05,10:40:00,08:20:00,6.9,After Breakfast,Breakfast,Avocado toast and tea
@@ -400,3 +400,106 @@ DateTime,Date,TimeTest,TimeMeal,Glucose (mmol/L),Marker,Meal Type,Description
 2024-09-05 16:36:00,2024-09-05,16:36:00,,5.2,No Marker,,
 2024-09-05 18:20:00,2024-09-05,18:20:00,,5.1,Before Supper,,
 2024-09-05 21:18:00,2024-09-05,21:18:00,18:50:00,9.4,After Supper,Supper,"Steamed fish, Broccoli, Bbq duck, Bbq Chinese sausage and jasmine rice"
+2024-09-05 23:34:00,2024-09-05,23:34:00,,9.2,No Marker,,
+2024-09-06 08:00:00,2024-09-06,08:00:00,,5.9,Before Breakfast,,
+2024-09-06 11:37:00,2024-09-06,11:37:00,08:10:00,6.5,After Breakfast,Breakfast,Avocado and egg on a keto pita
+2024-09-06 14:20:00,2024-09-06,14:20:00,,5.7,Before Lunch,,
+2024-09-06 17:00:00,2024-09-06,17:00:00,14:30:00,6.3,After Lunch,Lunch,"1 Peach, Gouda and Oka cheese, thin slices of Prosciutto and spicy Calabrese meats"
+2024-09-06 19:36:00,2024-09-06,19:36:00,,5.6,Before Supper,,
+2024-09-06 22:43:00,2024-09-06,22:43:00,19:40:00,8.0,After Supper,Supper,8 - Hard shell tacos and a piece of ice cream cake 
+2024-09-06 23:50:00,2024-09-06,23:50:00,,7.9,No Marker,,
+2024-09-07 10:08:00,2024-09-07,10:08:00,,5.4,No Marker,,
+2024-09-07 12:37:00,2024-09-07,12:37:00,,6.1,No Marker,,
+2024-09-07 14:15:00,2024-09-07,14:15:00,,5.0,Before Lunch,,
+2024-09-07 17:00:00,2024-09-07,17:00:00,14:16:00,5.3,After Lunch,Lunch,"1 Peach, Gouda, Oka cheese, and smoked cheddar cheese. Thin slices of Prosciutto and spicy Calabrese meat"
+2024-09-07 17:32:00,2024-09-07,17:32:00,,5.6,Before Supper,,
+2024-09-07 22:48:00,2024-09-07,22:48:00,18:33:00,8.8,After Supper,Supper,"Sushi Kinjo - Salmon Sashimi, Scallop Sashimi, Special Scallop, Beef Tataki, Rolls, Shrimp tempura, oysters. Piece of ice cream cake for dessert. "
+2024-09-08 10:40:00,2024-09-08,10:40:00,,5.1,No Marker,,
+2024-09-08 12:40:00,2024-09-08,12:40:00,,6.2,Before Lunch,,
+2024-09-08 16:19:00,2024-09-08,16:19:00,12:45:00,5.7,After Lunch,Lunch,"Tomato sandwich, and cheese with crackers + jam"
+2024-09-08 18:12:00,2024-09-08,18:12:00,,4.8,No Marker,,
+2024-09-08 19:30:00,2024-09-08,19:30:00,,5.6,Before Supper,,
+2024-09-08 22:26:00,2024-09-08,22:26:00,19:30:00,8.9,After Supper,Supper,"Pasta with shrimp and tomatoes, and ice cream cake desert"
+2024-09-08 23:50:00,2024-09-08,23:50:00,,9.2,No Marker,,
+2024-09-09 07:30:00,2024-09-09,07:30:00,,5.0,Before Breakfast,,
+2024-09-09 09:53:00,2024-09-09,09:53:00,07:30:00,6.0,After Breakfast,Breakfast,"Egg and toast, Earl Grey tea"
+2024-09-09 14:08:00,2024-09-09,14:08:00,,6.1,No Marker,,
+2024-09-09 16:12:00,2024-09-09,16:12:00,,6.3,No Marker,,
+2024-09-09 18:09:00,2024-09-09,18:09:00,,4.9,Before Supper,,
+2024-09-09 20:48:00,2024-09-09,20:48:00,18:15:00,6.7,After Supper,Supper,"Spaghetti and 3 meatballs with mozzarella cheese, ice cream cake "
+2024-09-09 23:06:00,2024-09-09,23:06:00,,6.5,No Marker,,
+2024-09-10 08:09:00,2024-09-10,08:09:00,,5.3,Before Breakfast,,
+2024-09-10 10:29:00,2024-09-10,10:29:00,08:10:00,6.1,After Breakfast,Breakfast,Hard boiled egg and toast (carbonaught)
+2024-09-10 12:20:00,2024-09-10,12:20:00,,6.3,Before Lunch,,
+2024-09-10 16:14:00,2024-09-10,16:14:00,12:20:00,6.1,After Lunch,Lunch,"1 Peach, Gouda and Oka cheese, thin slices of Prosciutto and spicy Calabrese meats"
+2024-09-10 18:16:00,2024-09-10,18:16:00,,5.2,Before Supper,,
+2024-09-10 21:01:00,2024-09-10,21:01:00,18:30:00,8.0,After Supper,Supper,"Beets, chicken and blue cheese salad with bread"
+2024-09-10 23:26:00,2024-09-10,23:26:00,,7.5,No Marker,,
+2024-09-11 08:03:00,2024-09-11,08:03:00,,5.1,Before Breakfast,,
+2024-09-11 11:23:00,2024-09-11,11:23:00,08:10:00,5.6,After Breakfast,Breakfast,Egg and toast (heritage sourdough bread)
+2024-09-11 13:23:00,2024-09-11,13:23:00,,5.4,No Marker,,
+2024-09-11 16:47:00,2024-09-11,16:47:00,,3.8,No Marker,,
+2024-09-11 18:23:00,2024-09-11,18:23:00,,3.8,Before Supper,,
+2024-09-11 21:19:00,2024-09-11,21:19:00,18:30:00,5.7,After Supper,Supper,Chicken Alfredo pasta with broccoli
+2024-09-11 23:43:00,2024-09-11,23:43:00,,5.3,No Marker,,
+2024-09-12 07:52:00,2024-09-12,07:52:00,,4.5,Before Breakfast,,
+2024-09-12 10:15:00,2024-09-12,10:15:00,08:00:00,6.8,After Breakfast,Breakfast,Avocado and toast (x2) on heritage sourdough bread
+2024-09-12 12:52:00,2024-09-12,12:52:00,,8.1,Before Lunch,,
+2024-09-12 15:48:00,2024-09-12,15:48:00,13:15:00,5.8,After Lunch,Lunch,"Gouda, smoked cheddar, and Oka cheese and pistachios"
+2024-09-12 17:43:00,2024-09-12,17:43:00,,5.4,No Marker,,
+2024-09-12 18:36:00,2024-09-12,18:36:00,,4.8,Before Supper,,
+2024-09-12 21:15:00,2024-09-12,21:15:00,18:49:00,9.8,After Supper,Supper,"Spaghetti and meat sauce, keto brownie muffin"
+2024-09-12 23:30:00,2024-09-12,23:30:00,,7.7,No Marker,,
+2024-09-13 08:06:00,2024-09-13,08:06:00,,5.0,No Marker,,
+2024-09-13 10:53:00,2024-09-13,10:53:00,,5.4,No Marker,,
+2024-09-13 13:38:00,2024-09-13,13:38:00,,4.8,No Marker,,
+2024-09-13 15:52:00,2024-09-13,15:52:00,,3.8,No Marker,,
+2024-09-13 17:58:00,2024-09-13,17:58:00,,4.1,No Marker,,
+2024-09-13 19:39:00,2024-09-13,19:39:00,,4.9,Before Supper,,
+2024-09-13 22:32:00,2024-09-13,22:32:00,19:45:00,5.9,After Supper,Supper,"Asian sesame seed and chicken salad, and brownie muffin dessert"
+2024-09-13 23:50:00,2024-09-13,23:50:00,,5.9,No Marker,,
+2024-09-14 11:33:00,2024-09-14,11:33:00,,4.0,No Marker,,
+2024-09-14 12:34:00,2024-09-14,12:34:00,,3.9,Before Lunch,,
+2024-09-14 15:11:00,2024-09-14,15:11:00,12:45:00,7.4,After Lunch,Lunch,Roast beef sandwich on heritage sourdough bread. Chicken noodle soup.
+2024-09-14 18:36:00,2024-09-14,18:36:00,,4.8,No Marker,,
+2024-09-14 19:44:00,2024-09-14,19:44:00,,6.3,Before Supper,,
+2024-09-14 22:34:00,2024-09-14,22:34:00,20:00:00,8.5,After Supper,Supper,"Tuna, and, couscous salad with chickpeas"
+2024-09-15 11:25:00,2024-09-15,11:25:00,,5.7,No Marker,,
+2024-09-15 12:10:00,2024-09-15,12:10:00,,5.6,Before Lunch,,
+2024-09-15 14:42:00,2024-09-15,14:42:00,12:15:00,6.7,After Lunch,Lunch,"1 Kodiak Pancake with banana slices and monk fruit syrup, 4 slices of bacon"
+2024-09-15 18:31:00,2024-09-15,18:31:00,,5.4,Before Supper,,
+2024-09-15 21:29:00,2024-09-15,21:29:00,18:40:00,7.6,After Supper,Supper,"Steak and pico de gallo, w jasmine rice, brownie fudge cupcake desert"
+2024-09-15 11:39:00,2024-09-15,11:39:00,,7.3,No Marker,,
+2024-09-15 08:32:00,2024-09-15,08:32:00,,6.1,No Marker,,
+2024-09-16 13:41:00,2024-09-16,13:41:00,,5.5,Before Lunch,,
+2024-09-16 18:09:00,2024-09-16,18:09:00,14:00:00,5.4,After Lunch,Lunch,Roast beef sandwich and soup broth
+2024-09-16 19:29:00,2024-09-16,19:29:00,,5.4,Before Supper,,
+2024-09-16 22:38:00,2024-09-16,22:38:00,19:30:00,7.4,After Supper,Supper,Chicken Quesadilla and fudge brownie
+2024-09-17 09:10:00,2024-09-17,09:10:00,,6.0,No Marker,,
+2024-09-17 11:18:00,2024-09-17,11:18:00,,5.8,Before Lunch,,
+2024-09-17 13:38:00,2024-09-17,13:38:00,11:15:00,6.2,After Lunch,Lunch,Egg with toast (pumpernickel bread)
+2024-09-17 20:52:00,2024-09-17,20:52:00,,5.0,No Marker,,
+2024-09-17 23:10:00,2024-09-17,23:10:00,,7.8,No Marker,,
+2024-09-18 07:58:00,2024-09-18,07:58:00,,4.8,Before Breakfast,,
+2024-09-18 10:26:00,2024-09-18,10:26:00,08:15:00,6.8,After Breakfast,Breakfast,Earl Grey tea and pumpernickel toast with butter
+2024-09-18 11:30:00,2024-09-18,11:30:00,,6.8,Before Lunch,,
+2024-09-18 15:17:00,2024-09-18,15:17:00,11:30:00,7.0,After Lunch,Lunch,"Dim Sum, TNT Deerfoot South"
+2024-09-18 18:18:00,2024-09-18,18:18:00,,5.8,Before Supper,,
+2024-09-18 22:27:00,2024-09-18,22:27:00,19:19:00,10.9,After Supper,Supper,Blaze 1 topping (Basil) pizza w/anchovies. Single scoop raspberry and white chocolate gelato
+2024-09-18 23:45:00,2024-09-18,23:45:00,,10.9,No Marker,,
+2024-09-19 09:58:00,2024-09-19,09:58:00,,5.3,No Marker,,
+2024-09-19 12:21:00,2024-09-19,12:21:00,,5.0,Before Lunch,,
+2024-09-19 19:28:00,2024-09-19,19:28:00,,4.3,Before Supper,,
+2024-09-19 22:12:00,2024-09-19,22:12:00,19:30:00,7.7,After Supper,Supper,Turkey soup and bread
+2024-09-19 23:16:00,2024-09-19,23:16:00,,7.4,No Marker,,
+2024-09-20 07:51:00,2024-09-20,07:51:00,,5.2,No Marker,,
+2024-09-20 10:02:00,2024-09-20,10:02:00,,5.3,No Marker,,
+2024-09-20 12:35:00,2024-09-20,12:35:00,,5.4,Before Lunch,,
+2024-09-20 15:23:00,2024-09-20,15:23:00,13:10:00,8.7,After Lunch,Lunch,Roast beef sandwich on sourdough bread
+2024-09-20 19:20:00,2024-09-20,19:20:00,,5.2,Before Supper,,
+2024-09-20 21:53:00,2024-09-20,21:53:00,19:30:00,7.3,After Supper,Supper,"Turkey soup with beans and spinach, 1/2 Italian French bread"
+2024-09-20 23:06:00,2024-09-20,23:06:00,,6.8,No Marker,,
+2024-09-21 11:23:00,2024-09-21,11:23:00,,4.7,Before Lunch,,
+2024-09-21 15:38:00,2024-09-21,15:38:00,12:00:00,5.8,After Lunch,Lunch,"Bacon, eggs, tomato and toast"
+2024-09-21 19:07:00,2024-09-21,19:07:00,,4.5,Before Supper,,
+2024-09-21 22:13:00,2024-09-21,22:13:00,19:30:00,6.8,After Supper,Supper,"Chicken, greek salad and Mediterranean rice"
