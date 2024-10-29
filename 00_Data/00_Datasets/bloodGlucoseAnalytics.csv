@@ -152,7 +152,7 @@ DateTime,Date,TimeTest,TimeMeal,Glucose (mmol/L),Marker,Meal Type,Description
 2024-07-28 19:30:00,2024-07-28,19:30:00,,5.7,Before Supper,,
 2024-07-28 21:52:00,2024-07-28,21:52:00,19:45:00,6.7,After Supper,Supper,"Spinach and arugula salad w/ micro greens and beats, with walnuts and pistachios and bacon + feta cheese. 1/2 low carb chocolate muffin"
 2024-07-29 08:04:00,2024-07-29,08:04:00,,4.9,Before Breakfast,,
-2024-07-29 11:37:00,2024-07-29,11:37:00,08:50:00,7.0,After Breakfast,Breakfast,Avocado toast w/muesli toast + 1/2 hard boiled egg
+2024-07-29 11:37:00,2024-07-29,11:37:00,08:50:00,7.0,After Breakfast,Breakfast,Avocado toast w/mueslix toast + 1/2 hard boiled egg
 2024-07-29 12:58:00,2024-07-29,12:58:00,,6.8,Before Lunch,,
 2024-07-29 16:17:00,2024-07-29,16:17:00,13:15:00,6.2,After Lunch,Lunch,Chicken breast sandwich w/ alfalfa sprouts on a keto cheese bread
 2024-07-29 18:05:00,2024-07-29,18:05:00,,7.1,Before Supper,,
@@ -503,3 +503,178 @@ DateTime,Date,TimeTest,TimeMeal,Glucose (mmol/L),Marker,Meal Type,Description
 2024-09-21 15:38:00,2024-09-21,15:38:00,12:00:00,5.8,After Lunch,Lunch,"Bacon, eggs, tomato and toast"
 2024-09-21 19:07:00,2024-09-21,19:07:00,,4.5,Before Supper,,
 2024-09-21 22:13:00,2024-09-21,22:13:00,19:30:00,6.8,After Supper,Supper,"Chicken, greek salad and Mediterranean rice"
+2024-09-21 23:45:00,2024-09-21,23:45:00,,5.6,No Marker,,
+2024-09-22 12:15:00,2024-09-22,12:15:00,,5.5,No Marker,,
+2024-09-22 15:26:00,2024-09-22,15:26:00,,6.1,Before Lunch,,
+2024-09-22 18:22:00,2024-09-22,18:22:00,15:30:00,10.2,After Lunch,Lunch,"Charcuterie platter of different cheeses, prosciutto, italian bread, crackers, and jam"
+2024-09-22 20:59:00,2024-09-22,20:59:00,,9.7,No Marker,,
+2024-09-22 23:07:00,2024-09-22,23:07:00,,7.8,No Marker,,
+2024-09-23 08:17:00,2024-09-23,08:17:00,,5.4,No Marker,,
+2024-09-23 12:00:00,2024-09-23,12:00:00,,6.0,Before Lunch,,
+2024-09-23 14:20:00,2024-09-23,14:20:00,12:15:00,5.2,After Lunch,Lunch,Turkey soup with white beans and veggies
+2024-09-23 17:36:00,2024-09-23,17:36:00,,5.1,No Marker,,
+2024-09-23 19:33:00,2024-09-23,19:33:00,,3.8,Before Supper,,
+2024-09-23 22:00:00,2024-09-23,22:00:00,19:35:00,5.9,After Supper,Supper,"Bacon, cherry tomatoes, basil, fusilli pasta, and cheesecake dessert"
+2024-09-23 23:11:00,2024-09-23,23:11:00,,5.4,No Marker,,
+2024-09-24 08:05:00,2024-09-24,08:05:00,,5.0,Before Breakfast,,
+2024-09-24 11:43:00,2024-09-24,11:43:00,08:30:00,5.3,After Breakfast,Breakfast,"1/2 hard boiled egg, small piece of avocado toast, 3 orange slices"
+2024-09-24 15:47:00,2024-09-24,15:47:00,,4.6,No Marker,,
+2024-09-24 18:00:00,2024-09-24,18:00:00,,3.9,Before Supper,,
+2024-09-24 21:34:00,2024-09-24,21:34:00,18:55:00,8.2,After Supper,Supper,Beef and chicken shawarma platter with rice and salad (Jerusalem Shawarma)
+2024-09-24 23:30:00,2024-09-24,23:30:00,,5.8,No Marker,,
+2024-09-25 08:01:00,2024-09-25,08:01:00,,4.8,No Marker,,
+2024-09-25 12:54:00,2024-09-25,12:54:00,,5.6,Before Lunch,,
+2024-09-25 15:53:00,2024-09-25,15:53:00,13:00:00,5.2,After Lunch,Lunch,Small piece of egg salad sandwich and turkey soup
+2024-09-25 19:40:00,2024-09-25,19:40:00,,3.9,Before Supper,,
+2024-09-25 22:19:00,2024-09-25,22:19:00,20:10:00,6.4,After Supper,Supper,Nona’s penicillin soup
+2024-09-25 23:46:00,2024-09-25,23:46:00,,6.6,No Marker,,
+2024-09-26 11:11:00,2024-09-26,11:11:00,,6.1,No Marker,,
+2024-09-26 12:15:00,2024-09-26,12:15:00,,4.8,Before Lunch,,
+2024-09-26 14:34:00,2024-09-26,14:34:00,12:30:00,5.0,After Lunch,Lunch,Nona’s penicillin soup and 1/2 grilled cheese sandwich
+2024-09-26 18:55:00,2024-09-26,18:55:00,,3.8,No Marker,,
+2024-09-26 20:49:00,2024-09-26,20:49:00,,3.7,Before Supper,,
+2024-09-26 23:25:00,2024-09-26,23:25:00,20:55:00,10.7,After Supper,Supper,Edo Japan - Beef teriyaki and Shrimp with yakisoba noodles and vegetables + egg roll
+2024-09-27 08:33:00,2024-09-27,08:33:00,,5.2,No Marker,,
+2024-09-27 10:53:00,2024-09-27,10:53:00,,5.7,No Marker,,
+2024-09-27 11:30:00,2024-09-27,11:30:00,,4.4,Before Lunch,,
+2024-09-27 18:11:00,2024-09-27,18:11:00,12:00:00,8.2,After Lunch,Lunch,Dim Sum
+2024-09-27 23:48:00,2024-09-27,23:48:00,,6.6,No Marker,,
+2024-09-28 11:27:00,2024-09-28,11:27:00,,5.4,No Marker,,
+2024-09-28 12:38:00,2024-09-28,12:38:00,,5.4,Before Lunch,,
+2024-09-28 15:06:00,2024-09-28,15:06:00,12:50:00,5.6,After Lunch,Lunch,Kodiak waffles with hemp seed and flax + bacon
+2024-09-28 18:36:00,2024-09-28,18:36:00,,4.8,Before Supper,,
+2024-09-28 21:17:00,2024-09-28,21:17:00,18:41:00,6.7,After Supper,Supper,Spaghetti with meatballs. Pasta di Senola di Grano Duro
+2024-09-28 23:38:00,2024-09-28,23:38:00,,6.3,No Marker,,
+2024-09-29 11:35:00,2024-09-29,11:35:00,,5.1,Before Lunch,,
+2024-09-29 15:01:00,2024-09-29,15:01:00,12:20:00,7.1,After Lunch,Lunch,"Bacon, Eggs, tomato and toast"
+2024-09-29 18:11:00,2024-09-29,18:11:00,,5.3,No Marker,,
+2024-09-29 19:19:00,2024-09-29,19:19:00,,5.1,Before Supper,,
+2024-09-29 22:14:00,2024-09-29,22:14:00,19:30:00,6.3,After Supper,Supper,Chicken Alfredo pasta and an arugula salad with baby tomatoes and red onion
+2024-09-29 23:36:00,2024-09-29,23:36:00,,5.8,No Marker,,
+2024-09-30 10:45:00,2024-09-30,10:45:00,,6.1,Before Breakfast,,
+2024-09-30 16:07:00,2024-09-30,16:07:00,12:00:00,7.7,After Breakfast,Breakfast,"Dim Sum - sticky rice, pork ribs, sumai, hagaou, Chinese donut (T.Pot)"
+2024-09-30 18:46:00,2024-09-30,18:46:00,,6.0,No Marker,,
+2024-09-30 21:17:00,2024-09-30,21:17:00,,5.0,No Marker,,
+2024-09-30 23:22:00,2024-09-30,23:22:00,,4.8,No Marker,,
+2024-10-01 08:15:00,2024-10-01,08:15:00,,4.8,No Marker,,
+2024-10-01 11:41:00,2024-10-01,11:41:00,,4.7,No Marker,,
+2024-10-01 14:55:00,2024-10-01,14:55:00,,5.0,Before Lunch,,
+2024-10-01 17:32:00,2024-10-01,17:32:00,15:00:00,5.7,After Lunch,Lunch,"Tossed salad, 4 kinds cheese slices, spicy calabrese and prosciutto, 1 peach"
+2024-10-01 17:54:00,2024-10-01,17:54:00,,5.6,Before Supper,,
+2024-10-01 21:26:00,2024-10-01,21:26:00,18:57:00,11.7,After Supper,Supper,Sate beef pho and spring rolls (Mot To)
+2024-10-01 23:41:00,2024-10-01,23:41:00,,10.1,No Marker,,
+2024-10-02 07:56:00,2024-10-02,07:56:00,,5.7,No Marker,,
+2024-10-02 12:56:00,2024-10-02,12:56:00,,5.4,No Marker,,
+2024-10-02 14:57:00,2024-10-02,14:57:00,,5.1,No Marker,,
+2024-10-02 17:32:00,2024-10-02,17:32:00,,4.7,No Marker,,
+2024-10-02 19:09:00,2024-10-02,19:09:00,,7.4,Before Supper,,
+2024-10-02 21:52:00,2024-10-02,21:52:00,19:15:00,9.2,After Supper,Supper,Vietnamese sub - beef satay
+2024-10-02 23:17:00,2024-10-02,23:17:00,,6.4,No Marker,,
+2024-10-03 02:10:00,2024-10-03,02:10:00,,4.3,No Marker,,
+2024-10-03 02:46:00,2024-10-03,02:46:00,,3.9,No Marker,,
+2024-10-03 07:48:00,2024-10-03,07:48:00,,6.6,No Marker,,
+2024-10-03 10:24:00,2024-10-03,10:24:00,,4.8,No Marker,,
+2024-10-03 13:04:00,2024-10-03,13:04:00,,5.4,Before Lunch,,
+2024-10-03 16:18:00,2024-10-03,16:18:00,13:04:00,7.4,After Lunch,Lunch,"4 Kinds of cheese slices, spicy calabrese and prosciutto, grapes, 2 slices of sourdough bread with olive oil and vinegar"
+2024-10-03 18:23:00,2024-10-03,18:23:00,,6.3,No Marker,,
+2024-10-03 19:23:00,2024-10-03,19:23:00,,5.9,Before Supper,,
+2024-10-03 22:37:00,2024-10-03,22:37:00,19:30:00,7.7,After Supper,Supper,Beef stew with veggies and rice
+2024-10-03 23:24:00,2024-10-03,23:24:00,,6.7,No Marker,,
+2024-10-04 08:30:00,2024-10-04,08:30:00,,6.3,No Marker,,
+2024-10-04 10:50:00,2024-10-04,10:50:00,,5.2,No Marker,,
+2024-10-04 13:23:00,2024-10-04,13:23:00,,5.2,No Marker,,
+2024-10-04 17:19:00,2024-10-04,17:19:00,,5.1,No Marker,,
+2024-10-04 19:05:00,2024-10-04,19:05:00,,4.7,Before Supper,,
+2024-10-04 22:04:00,2024-10-04,22:04:00,19:10:00,7.6,After Supper,Supper,"Tomato, bacon, cheese pasta - Pasta di Semola di Grano Duro - Casareccia Pasta"
+2024-10-04 23:25:00,2024-10-04,23:25:00,,5.2,No Marker,,
+2024-10-05 10:44:00,2024-10-05,10:44:00,,4.7,No Marker,,
+2024-10-05 12:10:00,2024-10-05,12:10:00,,4.7,Before Lunch,,
+2024-10-05 14:58:00,2024-10-05,14:58:00,12:15:00,7.2,After Lunch,Lunch,Blaze 1 topping (Basil) pizza w/anchovy paste
+2024-10-05 17:16:00,2024-10-05,17:16:00,,6.8,No Marker,,
+2024-10-05 19:38:00,2024-10-05,19:38:00,,5.5,Before Supper,,
+2024-10-05 22:13:00,2024-10-05,22:13:00,19:45:00,5.6,After Supper,Supper,Chicken Alfredo and broccoli
+2024-10-05 23:55:00,2024-10-05,23:55:00,,5.4,No Marker,,
+2024-10-06 09:44:00,2024-10-06,09:44:00,,5.1,Before Breakfast,,
+2024-10-06 12:48:00,2024-10-06,12:48:00,09:55:00,5.4,After Breakfast,Breakfast,Tea and sourdough bread with toast and butter
+2024-10-06 15:14:00,2024-10-06,15:14:00,,5.3,No Marker,,
+2024-10-06 18:41:00,2024-10-06,18:41:00,,3.9,Before Supper,,
+2024-10-06 21:29:00,2024-10-06,21:29:00,18:45:00,8.1,After Supper,Supper,"Asian coconut curry soup with noodles. High protein, gluten free noodles"
+2024-10-06 22:30:00,2024-10-06,22:30:00,,6.0,No Marker,,
+2024-10-07 02:09:00,2024-10-07,02:09:00,,3.9,No Marker,,
+2024-10-07 10:05:00,2024-10-07,10:05:00,,4.1,No Marker,,
+2024-10-07 13:06:00,2024-10-07,13:06:00,,3.9,Before Lunch,,
+2024-10-07 16:21:00,2024-10-07,16:21:00,12:15:00,6.1,After Lunch,Lunch,Tossed salad with olive oil and balsamic vinegar dressing and a side of 4 kinds of cheese slices
+2024-10-07 18:58:00,2024-10-07,18:58:00,,5.1,Before Supper,,
+2024-10-07 22:02:00,2024-10-07,22:02:00,19:30:00,7.1,After Supper,Supper,Spaghetti and meatballs - homemade pomodoro sauce. Pasta di Shannan p.g.i.
+2024-10-07 22:40:00,2024-10-07,22:40:00,,6.8,No Marker,,
+2024-10-08 08:49:00,2024-10-08,08:49:00,,6.0,No Marker,,
+2024-10-08 11:16:00,2024-10-08,11:16:00,,5.3,No Marker,,
+2024-10-08 14:13:00,2024-10-08,14:13:00,,5.3,Before Lunch,,
+2024-10-08 17:00:00,2024-10-08,17:00:00,14:30:00,6.9,After Lunch,Lunch,"A&W - Teen burger and Onion RIngs, soda water to drink"
+2024-10-08 19:32:00,2024-10-08,19:32:00,,5.1,Before Supper,,
+2024-10-08 22:36:00,2024-10-08,22:36:00,19:33:00,5.1,After Supper,Supper,"Lamb steak, greek salad, and Jerusalem Shawarma rice (Mediterranean rice)"
+2024-10-08 23:47:00,2024-10-08,23:47:00,,5.3,No Marker,,
+2024-10-09 08:04:00,2024-10-09,08:04:00,,5.9,Before Breakfast,,
+2024-10-09 09:26:00,2024-10-09,09:26:00,,6.3,Before Exercise,,
+2024-10-09 12:07:00,2024-10-09,12:07:00,08:30:00,5.1,After Breakfast,Breakfast,"Pumpernickel toast with butter, Earl grey tea"
+2024-10-09 12:08:00,2024-10-09,12:08:00,,5.1,After Exercise,,
+2024-10-09 13:18:00,2024-10-09,13:18:00,,5.1,Before Lunch,,
+2024-10-09 16:42:00,2024-10-09,16:42:00,13:22:00,4.9,After Lunch,Lunch,"Prosciutto with balsamic vinegar, and 4 kinds of cheeses"
+2024-10-09 19:17:00,2024-10-09,19:17:00,,4.8,Before Supper,,
+2024-10-09 21:50:00,2024-10-09,21:50:00,19:20:00,7.2,After Supper,Supper,"Nona’s penicillin soup, Turkish meat bread, a glass of water with 2 tablespoons of ACV and 1/2 lemon juice"
+2024-10-09 23:20:00,2024-10-09,23:20:00,,5.3,No Marker,,
+2024-10-10 07:52:00,2024-10-10,07:52:00,,3.8,Before Breakfast,,
+2024-10-10 10:30:00,2024-10-10,10:30:00,08:04:00,5.1,After Breakfast,Breakfast,"Pumpernickel toast with peanut butter and jam, Earl grey tea"
+2024-10-10 13:41:00,2024-10-10,13:41:00,,5.0,Before Lunch,,
+2024-10-10 16:31:00,2024-10-10,16:31:00,14:45:00,4.9,After Lunch,Lunch,"4 kinds cheese slices, spicy calabrese and prosciutto, 1 peach"
+2024-10-10 17:52:00,2024-10-10,17:52:00,,4.8,Before Supper,,
+2024-10-10 21:34:00,2024-10-10,21:34:00,18:36:00,7.3,After Supper,Supper,"Sate beef pho and spring rolls (Mot To), and a pre-drink of 2 tablespoons of ACV + lemon juice in a large glass of water"
+2024-10-10 23:25:00,2024-10-10,23:25:00,,6.1,No Marker,,
+2024-10-11 08:22:00,2024-10-11,08:22:00,,5.2,Before Breakfast,,
+2024-10-11 10:45:00,2024-10-11,10:45:00,08:25:00,5.1,After Breakfast,Breakfast,"1/2 hard boiled egg, 1 piece of pumpernickel toast with Avocado paste + Earl grey tea."
+2024-10-11 19:28:00,2024-10-11,19:28:00,,3.8,Before Supper,,
+2024-10-11 22:02:00,2024-10-11,22:02:00,19:30:00,6.8,After Supper,Supper,"Sirloin Steak + Rice + Pico de Gallo salad, 2 tablespoons of ACV and lemon juice as a pre-drink"
+2024-10-11 23:34:00,2024-10-11,23:34:00,,5.7,No Marker,,
+2024-10-12 09:14:00,2024-10-12,09:14:00,,5.3,No Marker,,
+2024-10-12 12:23:00,2024-10-12,12:23:00,,4.8,No Marker,,
+2024-10-12 13:05:00,2024-10-12,13:05:00,,5.2,Before Lunch,,
+2024-10-12 16:12:00,2024-10-12,16:12:00,13:50:00,8.3,After Lunch,Lunch,"Bacon cheese burger and Asiago fries, with water (RE:Grub). Single scoop of salted caramel ice cream in a waffle cone from Village Ice Cream"
+2024-10-12 20:48:00,2024-10-12,20:48:00,,5.7,No Marker,,
+2024-10-12 23:10:00,2024-10-12,23:10:00,,5.7,No Marker,,
+2024-10-13 10:14:00,2024-10-13,10:14:00,,4.9,No Marker,,
+2024-10-13 11:00:00,2024-10-13,11:00:00,,4.9,Before Breakfast,,
+2024-10-13 13:32:00,2024-10-13,13:32:00,11:00:00,6.7,After Breakfast,Breakfast,"Pumpernickel French toast, bacon and sausage and Earl Grey tea"
+2024-10-13 15:51:00,2024-10-13,15:51:00,,5.4,No Marker,,
+2024-10-13 21:08:00,2024-10-13,21:08:00,,5.3,Before Supper,,
+2024-10-13 23:54:00,2024-10-13,23:54:00,21:20:00,6.2,After Supper,Supper,"Roast duck, lamb, yam, brussel sprouts, mashed potatoes + gravy, pumpkin pie, glass of wine"
+2024-10-14 11:47:00,2024-10-14,11:47:00,,5.4,Before Lunch,,
+2024-10-14 17:06:00,2024-10-14,17:06:00,13:30:00,10.6,After Lunch,Lunch,Dim Sum (T.Pot) and Coco Bubble Tea (Brown Sugar Pearl Late)
+2024-10-14 19:13:00,2024-10-14,19:13:00,,7.2,No Marker,,
+2024-10-14 22:44:00,2024-10-14,22:44:00,,4.6,No Marker,,
+2024-10-15 08:12:00,2024-10-15,08:12:00,,5.1,Before Breakfast,,
+2024-10-15 11:04:00,2024-10-15,11:04:00,08:30:00,5.2,After Breakfast,Breakfast,"Pumpernickel french toast, earl grey tea"
+2024-10-15 13:12:00,2024-10-15,13:12:00,,4.8,Before Lunch,,
+2024-10-15 16:07:00,2024-10-15,16:07:00,,6.3,After Lunch,,
+2024-10-15 18:14:00,2024-10-15,18:14:00,,4.6,Before Supper,,
+2024-10-15 21:35:00,2024-10-15,21:35:00,19:04:00,5.9,After Supper,Supper,Spaghetti and meatballs (X3) with Asiago and Parmesan cheese. Pasta di Semola di Grano Duro noodles. ACV and lemon juice pre-drink.
+2024-10-15 23:46:00,2024-10-15,23:46:00,,5.9,No Marker,,
+2024-10-16 08:22:00,2024-10-16,08:22:00,,5.6,Before Breakfast,,
+2024-10-16 10:32:00,2024-10-16,10:32:00,08:35:00,5.8,After Breakfast,Breakfast,"Avocado toast on mueslix bread, Earl grey tea"
+2024-10-16 13:55:00,2024-10-16,13:55:00,,4.4,Before Lunch,,
+2024-10-16 16:17:00,2024-10-16,16:17:00,14:00:00,7.1,After Lunch,Lunch,Turkish meat pastry
+2024-10-16 19:30:00,2024-10-16,19:30:00,,5.3,Before Supper,,
+2024-10-16 22:16:00,2024-10-16,22:16:00,19:30:00,8.3,After Supper,Supper,"Pork chop with gravy and mashed potatoes, asparagus with red pepper and onions, pumpkin pie with whipped cream "
+2024-10-16 23:30:00,2024-10-16,23:30:00,,6.5,No Marker,,
+2024-10-17 08:00:00,2024-10-17,08:00:00,,6.2,No Marker,,
+2024-10-17 12:35:00,2024-10-17,12:35:00,,5.6,No Marker,,
+2024-10-17 14:30:00,2024-10-17,14:30:00,,5.4,Before Lunch,,
+2024-10-17 16:35:00,2024-10-17,16:35:00,14:34:00,8.0,After Lunch,Lunch,"DQ - single original cheese burger and onion rings, glass of water"
+2024-10-17 19:19:00,2024-10-17,19:19:00,,5.2,Before Supper,,
+2024-10-17 22:18:00,2024-10-17,22:18:00,19:25:00,7.1,After Supper,Supper,"Steak and pico de gallo, with rice, chocolate mousse pudding with gnosh"
+2024-10-17 23:36:00,2024-10-17,23:36:00,,7.1,No Marker,,
+2024-10-18 10:04:00,2024-10-18,10:04:00,,6.1,No Marker,,
+2024-10-18 11:38:00,2024-10-18,11:38:00,,6.0,No Marker,,
+2024-10-18 15:18:00,2024-10-18,15:18:00,,4.8,Before Lunch,,
+2024-10-18 17:46:00,2024-10-18,17:46:00,15:20:00,7.1,After Lunch,Lunch,"A&W - Teen burger and Onion RIngs, soda water to drink"
+2024-10-18 20:04:00,2024-10-18,20:04:00,,6.1,No Marker,,
+2024-10-18 22:03:00,2024-10-18,22:03:00,,4.8,No Marker,,
